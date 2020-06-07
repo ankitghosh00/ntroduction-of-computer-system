@@ -1,0 +1,51 @@
+What are the four layers of the computer architecture?
+
+<A>     Hardware, Windows, Software, User
+<B>     Computer, Operating System, Software, User
+<C>     Binary, Hardware, Operating System, Software
+<D>     Hardware, Operating System, Software, User
+
+
+AnS: <D> Hardware, Operating System, Software, User
+
+
+2.Question 2
+Write a paragraph on examples of abstraction that you encounter in your day-to-day life. For example, driving a car is an example of abstraction, you don't need to understand how a car works underneath the hood in order to drive one.
+
+
+The method of eliminating material, spatial or qualitative details or the characteristics in the analysis of the items or the systems to concentrate focus on more important details is known abstraction.The abstraction is the feature of the object oriented programming language .if any programming language  is object oriented then it must follow the feature  of the abstraction  .The main objective of abstraction is that its only focus on the essential details of the item .It simply means that the abstraction do not focus on the internal working of the items its only focus on the essential detail  i.e particular object or items giving the output or not Abstraction is a method of separating the customer from the implementation, only the interface is shown here
+The abstraction used to improve efficiency and enable sophisticated software systems to be developed and built efficiently.Now coming to the point real life example of abstraction .Their are many real life example of the abstraction
+As the given question is asking about the driving a car the driving is a car is the abstraction because the abstraction is eliminating material, spatial or qualitative details or the characteristics in the analysis of the items or the systems to concentrate focus on more important details also it means it
+focus on the essential details of the item .It simply means that the abstraction do not focus on the internal working of the items its only focus on the essential detail  i.e particular object or items giving the output or not.Here the important details is that car is work effectively or not it gives the output or not if it the particular people is driving the car effectively without any problem then it is going under the category of abstraction .
+In the car there are many parts and joining wires if the talk about the internal implementation of the car then it is called as encapsulation  .The wrapping of data is called as encapsulation which focus on the internal implementation rather then essential details .if the car is not working and there is an internal fault then it comes under the category of encapsulation so encapsulation and abstraction are opposite feature of the object oriented concept.
+There are Following points regarding the Abstraction
+
+Driving the car is the example of abstraction where as the internal working or parts is known as encapsulation .
+Developed the new car of same company but most of the feature is same as the previous model of the car then inheritance concept takes place .
+If the internal implementation is not seen then data hiding concept is takes place .
+The benefit of abstraction is that each user can get their own perception of the information as per their needs and not get frustrated with irrelevant information.
+Abstraction is a method of separating the customer from the implementation, only the interface is shown here so it separated the working of car with the internal implementation of the car.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
