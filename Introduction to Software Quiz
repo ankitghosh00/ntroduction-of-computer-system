@@ -1,0 +1,50 @@
+
+1.Question 1
+Which of these is application software? Check all that apply.
+
+<A>   RAM
+<B>   Email client
+<C>   Web browser
+<D>   CPU
+
+AnS: <C>   Web browser
+
+
+2.Question 2
+Which of these is system software? Check all that apply.
+
+<A>   BIOS
+<B>   CPU
+<C>   Windows OS
+<D>   Text editor
+
+
+AnS: <A> BIOS
+      <C> Windows OS
+      
+      
+
+3.Question 3
+What is the difference between an interpreted and a compiled language? Check all that apply
+
+<A>    Compiled languages are not translated into machine instructions beforehand.
+<B>    Interpreted languages are broken into machine instructions beforehand.
+<C>    Interpreted languages are not broken into machine instructions beforehand.
+<D>    Compiled languages are translated into machine instructions beforehand.
+
+
+AnS:<C>    Interpreted languages are not broken into machine instructions beforehand.
+    <D>    Compiled languages are translated into machine instructions beforehand.
+
+
+
+4.Question 4
+In the Linux distribution Ubuntu, what command would you use to install an application?
+
+<A>   application
+<B>    apt
+<C>   execute
+<D>   run
+
+AnS: <B> apt
+
