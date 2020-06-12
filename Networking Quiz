@@ -1,0 +1,144 @@
+1.Question 1
+which of the  device are used in networking?
+
+AnS: <A> HUBS
+      <B> Switch
+       <C> Routers
+       
+2.Question 2
+Which one of these are a valid IPv4 address?
+
+AnS: <A> 54.45.43.54.
+      <B> 1.1.1.1
+      <C> 255.255.255.0
+      
+3.question 3
+which network protocol is used to route IP address ?
+
+AnS: <A> IP
+
+4.Question 4
+What protocol allows US to Use a domain name like google.com in sted of an IP address ?
+
+Ans: <A> DNS
+
+5.Question 5
+You are having trouble Connecting to the Internet so you call your Internet service Providev for Help thay need to Know the Prmanent Unique
+identified of you networking divec to help them troubleshot what are the asking for ?
+
+AnS: <A> MAC address
+
+6.Question 6
+What type of address do Computer use to find something on a network ?
+
+AnS: <A> IP address
+
+7.Question 7
+You're browsing the Web and type in www.Coursera.com in the address line. Instead of the Web side an error Screen appearn you type in 54.174.155.206 and the coursera webside come up
+what's the most likely reson for this ?
+
+AnS: <A> There's a problem in your network DNS configuration
+
+8.Question 8
+What was the main limitation of computer networking that the invention of the world wide web solved in the 1990s ?
+
+AnS: <A> people could only recive the information in the from of text
+
+9.Question 9
+you need to updata your router setting so you log in to the admisistration panal,whose Internet Protocol (IP) address is 192.168.0.1 which IP version is this
+
+AnS:<A> IPv4
+
+10.Question 10
+Which Statement is True about "Computer SecuRity"
+
+AnS: <A> Computer security is every one responsibility
+
+11.Question 11
+Which network Protocol is used to handle the reliable delivery of information ?
+
+AnS: <A> TCP
+
+12.Question 12
+What is know as networking in the IT field ChecK all the apply ?
+
+AnS: <A> Designing networks
+     <B> Managing networks
+     <C> Building networks
+     
+13.Question 13
+Which one of these can Connect divecly to the internet ?
+
+AnS:<A> Internet User
+
+14.Question 14
+Which Statements are true about routers ? cleck all that aply?
+
+AnS:
+<A> A router utilized network protocols to help determine where to send data packets
+<B> A router connects devices together and helps direct network traffic
+
+15.Question 15
+Which Internet protocol version is 1.00.0.0.256 ?
+
+AnS: <A> Not a valid IP Address
+
+16.Question 16
+What are some of the ways we can resolve IPv4 address shortages ?
+
+AnS: <A> using IPv6 addresses
+     <B> Network address Translation
+     
+17.Question 17
+Devices on a network are identified by which of the following
+
+AnS: <A> MAC address and IP address
+
+18.Question 18
+Through which of te devices listed are we able to connect to wireless networks
+
+AnS: <A> Radio
+      <B> Antana
+      
+19.Question 19
+You want to register the domain name ABC company.org but the registration service is not warking ?
+
+ANS:<A> The domain name is registered to someone else
+
+20.Question 20
+What was the biggest problem with The earliest version of the Internet in the  last 1960a ?
+
+AnS: <A> Network was not Working
+
+21.Question 21
+Which Problem does IPv6 (Internet Protocol version 6) help to Solve?
+
+AnS: <A> There are less than 4.3 billion Ipv4 address which has already been exceded with existing websites
+
+22.Question 22
+What are some example of the impact of the Internet Boom ?
+
+AnS: <A> We have instant 24 hour access to news and entertainnment
+     <B> We can sell used items to people outside of our local regions
+     <C> we can attend a university from our homes
+     
+23.Question 23
+True or false: You can create a network with two computers.
+<A>    TRUE
+<B>    FALSE
+
+ANS: <A> TRUE
+
+24.Question 24
+What are some examples of IoT (Internet of Things)? Check all that apply.
+
+<A>    Thermostats that turn off the air conditioning when you leave the room
+<B>    An online car dealership that can provide complete car history using the vehicle identification number
+<C>    Teachers who post assignments for their students on the school website
+<D>    Refrigerators that keep track of the food and notify you when to buy more
+
+AnS: <A>    Thermostats that turn off the air conditioning when you leave the room
+     <D>    Refrigerators that keep track of the food and notify you when to buy more
+
+     
+
