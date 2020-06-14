@@ -1,0 +1,66 @@
+
+1.Question 1
+What is the difference between a ROM chip and a RAM chip? Check all that apply.
+
+<A>     A ROM chip is non-volatile and will keep its data in the case of a power failure. A RAM chip is volatile and will wipe its data in the case of a power failure.
+<B>     A ROM chip stores temporary data. A RAM chip stores permanent data.
+<C>     A ROM chip stores permanent data. A RAM chip stores temporary data.
+<D>     A ROM chip is volatile and will wipe its data in the case of a power failure. A RAM chip is non-volatile and will keep its data in the case of a power failure.
+
+
+
+
+ANS:
+
+<A>    A ROM chip is non-volatile and will keep its data in the case of a power failure. A RAM chip is volatile and will wipe its data in the case of a power failure.
+<C>    A ROM chip stores permanent data. A RAM chip stores temporary data.
+
+
+2.Question 2
+Which of these functions does the BIOS perform? Check all that apply.
+
+<A>     Installs drivers
+<B>     Initializes hardware
+<C>     Checks what devices are connected to the computer
+<D>     POST
+
+
+
+ANS:
+<B>     Initializes hardware
+<C>     Checks what devices are connected to the computer
+<D>     POST
+
+
+
+
+
+3.Question 3
+Where are your BIOS settings stored?
+
+<A>    Flash drive
+<B>     RAM
+<C>     Hard drive
+<D>     CMOS chip
+
+
+ANS:
+    <D> CMOS chip
+
+
+
+4.Question 4
+What is the difference between a traditional BIOS and UEFI? Check all that apply.
+
+<A>     A traditional BIOS has better compatibility with newer hardware.
+<B>      UEFI has better compatiblity with newer hardwar
+<C>     UEFI is meant to become the new standard for BIOS.
+<D>     UEFI has become the default BIOS on new systems.
+
+
+ANS:
+<B>      UEFI has better compatiblity with newer hardwar
+<C>     UEFI is meant to become the new standard for BIOS.
+<D>     UEFI has become the default BIOS on new systems.
+
+
