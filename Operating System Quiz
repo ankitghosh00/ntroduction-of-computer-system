@@ -1,0 +1,213 @@
+
+1.Question 1
+What are the two main parts that make up an operating system?
+
+<A>   Kernel and Userspace
+<B>   Windows and Mac
+<C>   Kernel and Packages
+<D>   Users and Software
+
+
+AnS:<A>   Kernel and Userspace 
+
+
+2.Question 2
+What are the main components of file management? Check all that apply.
+
+<A>    File data
+<B>    File system
+<C>    NTFS
+<D>    Metadata
+
+
+AnS: <A>    File data
+     <B>    File system
+     <D>    Metadata
+
+
+
+
+3.Question 3
+Which of these are true? Check all that apply.
+
+<A>     A program is an application that we can run. A process is a program that is executed.
+<B>     A program is a process that is executed. A process is a program that we can run.
+<C>     A program is initially stored in RAM. A process is initially stored in the hard drive.
+<D>     You can have many processes running for one program.
+
+
+AnS: <A>     A program is an application that we can run. A process is a program that is execute
+      <D>     You can have many processes running for one program.
+
+
+
+4.Question 4
+What are the characteristics of virtual memory? Check all that apply.
+
+<A>   Allows our computer to have more memory than it physically has.
+<B>   Combination of RAM and hard drive space.
+<C>   It is where we store pages that are being executed
+<D>   Stores pages that are currently not in use by physical memory.
+
+
+ANS:<A>   Allows our computer to have more memory than it physically has.
+    <B>   Combination of RAM and hard drive space.
+    <D>   Stores pages that are currently not in use by physical memory.
+
+
+
+
+
+5.Question 5
+Which of these is a GUI? Check all that apply.
+
+<A>   Option One
+<B>   Option Two
+<C>   Option Three
+<D>   Option Four
+
+
+ANS:<B>   Option Two
+    <C>   Option Three
+
+
+
+
+
+6.Question 6
+Which of these are considered I/O devices? Check all that apply.
+
+<A>  Web cams
+<B>  Hard disk drives
+<C>  Speakers
+<D>  Monitors
+
+
+
+
+ANS:<A>  Web cams
+    <B>  Hard disk drives
+    <C>  Speakers
+    <D>  Monitors
+
+
+
+
+
+
+
+7.Question 7
+What is the last step in booting a computer?
+
+<A>   Load up drivers.
+<B>   Perform a POST.
+<C>   Execute the bootloader.
+<D>   User space is launched.
+
+
+AnS:<D>   User space is launche
+
+
+8.Question 8
+True or false: If you have a 32-bit CPU architecture, it's recommended to use a 64-bit operating system.
+
+<A> TRUE
+<B> FALSE
+
+AnS: <B> FALSE
+
+
+
+9.Question 9
+If you want to boot into a USB drive, how do you change your boot settings?
+
+<A>   Replace the CPU.
+<B>   Wipe the computer.
+<C>   Go into the BIOS settings and change the boot settings
+<D>   Login to the machine.
+
+
+AnS: 
+<C>   Go into the BIOS settings and change the boot settings
+
+
+
+10.Question 10
+What is the file manager in macOS called?
+
+<A>   Finder
+<B>   File Explorer
+<C>   Konqueror
+<D>   Midnight Commander
+
+
+AnS: <A> Finder
+
+
+11.Question 11
+What command can you use to create a file using bash?
+
+<A>  cat
+<B>  ls
+<C>  touch
+<D>  mkfile
+
+
+AnS: <C> touch
+
+
+12.Question 12
+A ____ is an emulation of a physical machine.
+
+<A>  BIOS
+<B>  virtual machine
+<C>  driver
+<D>  kernel
+
+AnS: <B> virtual machine
+
+13.Question 13
+How long do you have to complete each Qwiklab?
+
+<A>   20 minutes
+<B>   1 hour
+<C>   24 hours
+<D>   As long as you need.
+
+
+AnS: <B>   1 hour
+
+14.Question 14
+True or false: It can take some time for the labs to load once you click “start lab.”
+
+<A>   True
+<B>   False
+
+AnS : <A> True
+
+
+15.Question 15
+True or false: It can take some time for the working instance of Linux and Windows OS to load.
+
+<A>  True
+<B>  False
+
+AnS: <A> True
+
+
+16.Question 16
+What do you need to do to finish a lab and have your grade posted to Coursera?
+
+<A>   Close all lab windows
+<B>   Refresh the Coursera course page
+<C>   Click the red “End Lab” button
+
+AnS: <A>   Close all lab windows
+
+17.Question 17
+Are you able to access your work once you click the “End Lab” button?
+
+<A>   Yes
+<B>   No
+
+AnS: <B> NO
